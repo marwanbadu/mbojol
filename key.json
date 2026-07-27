@@ -51,6 +51,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Admin"
+    },
+    "DPMods-ANQEFX": {
+      "hwid": "840902077B6DB376",
+      "expireDate": "2026-07-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Admin"
     }
   }
 }
