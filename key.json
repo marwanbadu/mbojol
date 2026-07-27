@@ -44,6 +44,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-XKB3V9": {
+      "hwid": "840902077B6DB376",
+      "expireDate": "2026-07-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Admin"
     }
   }
 }
